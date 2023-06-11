@@ -112,8 +112,7 @@ Here we visualize our results. Our two dishes, after being run through logistic 
 ### All together
 
 Here is the big picture:
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-PY0181EN-SkillsNetwork/labs/2_linear_classifiers/images/summary.png" alt="drawing" width="1150">
-<!-- ![Diagram](Picture1.png){ width : 50% } -->
+![image](https://github.com/ahammadmejbah/IBM-Project-05-Classify-recipe-text-to-cuisine-using-NLP-and-Logistic-Regression/assets/56669333/25f06ae0-2c72-43ae-b3cc-4adc9ba06dc0)
 
 
 ### Exercise 1 - Prepare the data
@@ -163,7 +162,7 @@ LogisticRegression(penalty='l2', *, dual=False, tol=0.0001, C=1.0, fit_intercept
 Cross validation is the practice of taking a random set from within the training data and using it to optimize the algorithm. This improves it's ability to generalize (perform well when given new data)
 
 
-![CV-Example](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-PY0181EN-SkillsNetwork/labs/2_linear_classifiers/images/K-fold_cross_validation.svg)
+![image](https://github.com/ahammadmejbah/IBM-Project-05-Classify-recipe-text-to-cuisine-using-NLP-and-Logistic-Regression/assets/56669333/3f10fb86-ff8c-4145-b91a-3a16211ad50b)
 
 By Gufosowa - Own work, CC BY-SA 4.0, [https://commons.wikimedia.org/w/index.php?curid=82298768](https://commons.wikimedia.org/w/index.php?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMPY0181ENSkillsNetwork36484875-2022-01-01&curid=82298768)
 
